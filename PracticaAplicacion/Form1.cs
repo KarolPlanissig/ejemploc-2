@@ -19,6 +19,7 @@ namespace PracticaAplicacion
 
         private void btnAcep_Click(object sender, EventArgs e)
         {
+           
             string Apellido = textBox1.Text;
             string Nombre = textBox2.Text;
             string Edad = textBox3.Text;
